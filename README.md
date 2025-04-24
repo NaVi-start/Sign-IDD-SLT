@@ -17,6 +17,11 @@ This code is based on [Joey NMT](https://github.com/joeynmt/joeynmt) but modifie
 
   `python -m signjoey train configs/sign.yaml` 
 
+## Weights and data 
+通过网盘分享的文件：SLT-DATA
+链接: https://pan.baidu.com/s/1x_SDXYPHwTzlEJwrKlHr3A?pwd=xhys 提取码: xhys
+
+
 ! Note that the default data directory is `./data`. If you download them to somewhere else, you need to update the `data_path` parameters in your config file.   
 ## ToDo:
 
