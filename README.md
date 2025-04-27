@@ -34,30 +34,30 @@ This code is based on [Joey NMT](https://github.com/joeynmt/joeynmt) but modifie
 
 Please cite the paper below if you use this code in your research:
 
-   @inproceedings{tang2025sign,
-  title={Sign-IDD: Iconicity Disentangled Diffusion for Sign Language Production},
-  author={Tang, Shengeng and He, Jiayi and Guo, Dan and Wei, Yanyan and Li, Feng and Hong, Richang},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={39},
-  number={7},
-  pages={7266--7274},
-  year={2025}
-}
-
-@article{tang2024discrete,
-  title={Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observation},
-  author={Tang, Shengeng and He, Jiayi and Cheng, Lechao and Wu, Jingjing and Guo, Dan and Hong, Richang},
-  journal={arXiv preprint arXiv:2411.16810},
-  year={2024}
-}
-
-@article{tang2024GCDM,
-  title={Gloss-Driven Conditional Diffusion Models for Sign Language Production},
-  author={Tang, Shengeng and Xue, Feng and Wu, Jingjing and Wang, Shuo and Hong, Richang},
-  journal={ACM Transactions on Multimedia Computing, Communications, and Applications},
-  issn = {1551-6857},
-  year={2024},
-}
+     @inproceedings{tang2025sign,
+         title={Sign-IDD: Iconicity Disentangled Diffusion for Sign Language Production},
+         author={Tang, Shengeng and He, Jiayi and Guo, Dan and Wei, Yanyan and Li, Feng and Hong, Richang},
+         booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+         volume={39},
+         number={7},
+         pages={7266--7274},
+         year={2025}
+      }
+    
+    @article{tang2024discrete,
+      title={Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observation},
+      author={Tang, Shengeng and He, Jiayi and Cheng, Lechao and Wu, Jingjing and Guo, Dan and Hong, Richang},
+      journal={arXiv preprint arXiv:2411.16810},
+      year={2024}
+    }
+    
+    @article{tang2024GCDM,
+      title={Gloss-Driven Conditional Diffusion Models for Sign Language Production},
+      author={Tang, Shengeng and Xue, Feng and Wu, Jingjing and Wang, Shuo and Hong, Richang},
+      journal={ACM Transactions on Multimedia Computing, Communications, and Applications},
+      issn = {1551-6857},
+      year={2024},
+    }
 
     @inproceedings{camgoz2020sign,
       author = {Necati Cihan Camgoz and Oscar Koller and Simon Hadfield and Richard Bowden},
